@@ -17,11 +17,9 @@ A lightweight and efficient web-based tool to compress large text files by up to
 
 ## 🖼️ Project Preview
 
-### Compression Demo
-![Compression Demo](assets/compression_demo.png)
 
 ### User Interface
-![User Interface](assets/ui_preview.png)
+![User Interface](snpas/ui.png)
 
 *(Replace these image paths with your actual screenshot file paths or image URLs.)*
 
@@ -45,11 +43,9 @@ The project uses the **Huffman Coding** algorithm, a well-known lossless data co
 ---
 
 ## 📸 Screenshots
-**Compression Result**
-![Compression Result](assets/compression_result.png)
+![Compression Result](snpas/ui3.png)
 
-**Decompression Result**
-![Decompression Result](assets/decompression_result.png)
+![Decompression Result](snpas/ui2.png)
 
 ---
 
