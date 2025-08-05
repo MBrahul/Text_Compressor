@@ -56,4 +56,4 @@ The project uses the **Huffman Coding** algorithm, a well-known lossless data co
 ## 🔧 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Text-File-Compressor.git
+   git clone https://github.com/MBrahul/Text_Compressor.git
