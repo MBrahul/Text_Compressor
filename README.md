@@ -19,9 +19,8 @@ A lightweight and efficient web-based tool to compress large text files by up to
 
 
 ### User Interface
-![User Interface](snpas/ui.png)
+![User Interface](snaps/ui.png)
 
-*(Replace these image paths with your actual screenshot file paths or image URLs.)*
 
 ---
 
@@ -43,9 +42,9 @@ The project uses the **Huffman Coding** algorithm, a well-known lossless data co
 ---
 
 ## 📸 Screenshots
-![Compression Result](snpas/ui3.png)
+![Compression Result](snaps/ui3.png)
 
-![Decompression Result](snpas/ui2.png)
+![Decompression Result](snaps/ui2.png)
 
 ---
 
